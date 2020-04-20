@@ -11,3 +11,9 @@ int sub(int a, int b)
 	printf("%d", a + b);
 	return a + b;
 }
+
+int mul(int a, int b)
+{
+	printf("%d", a * b);
+	return a * b;
+}
